@@ -1,4 +1,4 @@
-# Webpack Styles Example (JS-C2-2017)
+# Webpack HTML Example (JS-C2-2017)
 
 ## Install
 
