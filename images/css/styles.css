@@ -1,0 +1,5 @@
+.cool {
+  content: url(../assets/logo.png);
+  background-color: #888;
+  color: #fff;
+}
