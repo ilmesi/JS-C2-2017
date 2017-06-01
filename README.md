@@ -4,8 +4,9 @@
 
 - Basic
 - Styles
-- Images
 - HTML
+- Images
+- Server
 
 
 ## Class content
